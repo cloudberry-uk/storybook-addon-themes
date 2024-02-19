@@ -1,3 +1,15 @@
+# v0.0.4 (Mon Feb 19 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Initial commit ([@cloudberry-uk](https://github.com/cloudberry-uk))
+
+#### Authors: 1
+
+- [@cloudberry-uk](https://github.com/cloudberry-uk)
+
+---
+
 # v6.1.4 (Mon Feb 19 2024)
 
 #### ⚠️ Pushed to `main`
