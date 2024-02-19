@@ -1,6 +1,6 @@
 {
-  "name": "@cloudberry-uk/storybook-addon-themes",
-  "version": "6.1.7",
+  "name": "@cloudberryuk/storybook-addon-themes",
+  "version": "0.0.1",
   "description": "Switch between multiple themes for you components in Storybook",
   "keywords": [
     "storybook-addons",
@@ -14,7 +14,7 @@
   },
   "type": "module",
   "license": "MIT",
-  "author": "cloudberryai <hi@cloudberryai.com>",
+  "author": "cloudberrybot <hi@cloudberryai.com>",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
