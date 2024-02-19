@@ -1,3 +1,17 @@
+# v0.0.3 (Mon Feb 19 2024)
+
+#### ⚠️ Pushed to `main`
+
+- chore: update author (message@cloudberryai.uk)
+- Initial commit ([@cloudberry-uk](https://github.com/cloudberry-uk))
+
+#### Authors: 2
+
+- [@cloudberry-uk](https://github.com/cloudberry-uk)
+- Cloudberry AI (message@cloudberryai.uk)
+
+---
+
 # v0.0.2 (Mon Feb 19 2024)
 
 #### ⚠️ Pushed to `main`
