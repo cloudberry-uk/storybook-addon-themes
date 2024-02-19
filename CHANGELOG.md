@@ -2,6 +2,18 @@
 
 #### ⚠️ Pushed to `main`
 
+- Initial commit ([@cloudberry-uk](https://github.com/cloudberry-uk))
+
+#### Authors: 1
+
+- [@cloudberry-uk](https://github.com/cloudberry-uk)
+
+---
+
+# v0.0.2 (Mon Feb 19 2024)
+
+#### ⚠️ Pushed to `main`
+
 - Initial commit (message@cloudberryai.uk)
 
 #### Authors: 1
