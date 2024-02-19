@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Feb 19 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Initial commit (message@cloudberryai.uk)
+
+#### Authors: 1
+
+- Cloudberry AI (message@cloudberryai.uk)
+
+---
+
 # v6.1.7 (Mon Feb 19 2024)
 
 #### ⚠️ Pushed to `main`
