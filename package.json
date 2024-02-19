@@ -1,6 +1,6 @@
 {
   "name": "@cloudberryai.uk/storybook-addon-themes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Switch between multiple themes for you components in Storybook",
   "keywords": [
     "storybook-addons",
